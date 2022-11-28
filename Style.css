@@ -1,0 +1,39 @@
+
+.wallpaper{
+    background-color: black;
+}
+.bg-button{
+    background-color: aquamarine;
+}
+.bg-login{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/005/878/458/non_2x/black-background-with-cobweb-pattern-vector.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #ffff;
+}
+h1{
+    font-family: 'Grenze', serif;
+    font-size: 80px;
+}
+.bg{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/006/391/033/non_2x/empty-black-backdrop-abstract-gradient-grey-background-free-photo.jpg');
+}
+.modal-content{
+    background-color: aliceblue;
+}
+.bg-box{
+    background-color: aliceblue;
+}
+.font-roboto{
+    font-family: 'Roboto Mono', monospace;
+}
+.bg-nf{
+    background-color: rgba(61, 92, 95, 1);
+    background-image: url('https://www.10wallpaper.com/wallpaper/2560x1600/1109/dew_covered_spider_web-Nature_Landscape_wallpaper_selected_2560x1600.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.txt-header{
+    font-size: 200px;
+}
